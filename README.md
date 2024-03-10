@@ -7,6 +7,8 @@ This is a simple weather application built using React.js. It allows users to se
 - **Search**: Users can search for weather information by entering a city name.
 - **Current Weather**: The app displays the current weather conditions including temperature, humidity, wind speed, and weather description.
 - **Responsive Design**: The app is responsive and works well on both desktop and mobile devices, and the background also changes dynamically according to timing.
+- **Temprature**: The app is responsive and works well on both desktop and mobile devices, and the background also changes dynamically according to timing.
+- **Temperature Conversion**: Users can convert the temperature display from Celsius to Fahrenheit by clicking on it.
 
 ## Technologies Used
 
