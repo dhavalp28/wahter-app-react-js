@@ -72,7 +72,7 @@ const App = () => {
 
       const options = {
         method: 'GET',
-        url: `http://api.weatherapi.com/v1/current.json?key=${API_KEY}&aqi=no&q=${search}`,
+        url: `https://api.weatherapi.com/v1/current.json?key=${API_KEY}&aqi=no&q=${search}`,
       };
 
       try {

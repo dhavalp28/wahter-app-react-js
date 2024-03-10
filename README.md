@@ -52,7 +52,7 @@ This is a simple weather application built using React.js. It allows users to se
 
 ## Demo
 
-You can see a live demo of this application [here](https://your-weather-app-demo.com).
+You can see a live demo of this application [here](https://65ed284b93097c196efe7df3--musical-bienenstitch-26ed97.netlify.app/).
 
 ## Screenshots
 
