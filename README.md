@@ -37,7 +37,7 @@ This is a simple weather application built using React.js. It allows users to se
 4. **Change API key in `App.js` add your weatherapi API key:**
 
     ```
-    REACT_APP_API_KEY=your-api-key
+    API_KEY=your-api-key
     ```
 
     You can sign up for a free API key at [weatherapi](https://www.weatherapi.com/).
